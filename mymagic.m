@@ -3,3 +3,5 @@ function out = mymagic(m)
 % Add more comments
 out = magic(m);
 disp(m)
+
+plot(m)
