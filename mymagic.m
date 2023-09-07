@@ -1,6 +1,6 @@
 function out = mymagic(m)
 % Add comments from github editor
-% Add more comments
+% Change comments from test2
 out = magic(m);
 disp(m)
 
